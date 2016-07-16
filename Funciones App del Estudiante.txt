@@ -1,0 +1,15 @@
+Esta aplicación tendrá como función principal organizar los tiempos del estudiante dentro  y fuera de la institución:
+Podrán agregar los horarios de sus materias de una forma más atractiva
+Tendrán algunos enlaces a repositorios de e-books dependiendo de su carrera
+Tendrán la posibilidad de ver ciertos lugares de tipo entretenimiento/educación, como teatros, bibliotecas, etc
+Contaran con enlaces directos a las redes sociales de la UNITEC 
+Se integraran los datos institucionales como número de teléfono, correo y dirección
+
+
+
+
+
+
+NOTAS:
+Como extra de la app se verá la posibilidad de que en los horarios venga impreso un código QR y se registren los horarios de sus clases
+así como eventos especiales que organiza la institución.
